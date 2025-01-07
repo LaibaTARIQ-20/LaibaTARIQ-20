@@ -9,13 +9,13 @@ My goal is to build innovative solutions and contribute to impactful projects.
 
 ### 🌟 Skills  
 #### 👨‍💻 Programming and Markup Languages  
-Python | JavaScript | TypeScript | HTML | CSS | SQL | Markdown <br>  
+Python | JavaScript  | HTML | CSS  <br>  
 
 #### 🧰 Frameworks and Libraries  
 React.js | Next.js | Node.js | Express.js | Flask | Tailwind CSS | Bootstrap | Material UI <br>  
 
 #### 🗄️ Databases and Cloud Hosting  
-MongoDB | PostgreSQL | MySQL | Firebase | Vercel | Netlify <br>  
+MongoDB | PostgreSQL | MySQL <br>  
 
 ---
 
@@ -34,9 +34,6 @@ MongoDB | PostgreSQL | MySQL | Firebase | Vercel | Netlify <br>
 ---
 
 ### 💼 Projects  
-**[Mazdoor.com](#)** <br>  
-A platform connecting daily wage laborers and skilled workers with employers, empowering underprivileged communities in Pakistan. <br>  
-
 **Food Barter Web App** <br>  
 An app where users can exchange home-cooked meals with others nearby. <br>  
 
