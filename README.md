@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-### I'm Laiba Tariq  
+### I'm Laiba Noor 
 I am a software engineering student and a passionate learner currently exploring the world of Python, AI, and robotics. <br>  
 I am enrolled in **PIAIC Batch 68** for the **Genetic Robotic AI Engineering course**, where I am diving deeper into cutting-edge technologies. <br>  
 My goal is to build innovative solutions and contribute to impactful projects.  
