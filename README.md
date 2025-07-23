@@ -1,64 +1,64 @@
-# Hi there 👋  
+# Hello, I'm Laiba Noor👋
 
-### I'm Laiba Noor 
-I am a software engineering student and a passionate learner currently exploring the world of Python, AI, and robotics. <br>  
-I am enrolled in **PIAIC Batch 68** for the **Genetic Robotic AI Engineering course**, where I am diving deeper into cutting-edge technologies. <br>  
-My goal is to build innovative solutions and contribute to impactful projects.  
+I'm a Software Engineering student passionate about building intelligent systems that protect our digital world. My focus is at the intersection of AI and cybersecurity, where I'm developing skills to create smarter, more responsive security solutions.
 
----
+## 🔍 My Research Journey
 
-### 🌟 Skills  
-#### 👨‍💻 Programming and Markup Languages  
-Python | JavaScript  | HTML | CSS  <br>  
+I'm exploring how machine learning can transform cybersecurity from reactive to predictive. Every day, I work toward building systems that can detect and respond to threats automatically.
 
-#### 🧰 Frameworks and Libraries  
-React.js | Next.js | Node.js | Express.js | Flask | Tailwind CSS | Bootstrap | Material UI <br>  
+**Current exploration areas:**
+- Training models to detect anomalies in network traffic patterns
+- Building intelligent systems that can identify potential vulnerabilities
+- Developing privacy-preserving security analytics
 
-#### 🗄️ Databases and Cloud Hosting  
-MongoDB | PostgreSQL | MySQL <br>  
+## 💻 Technical Background
 
----
+I work with various technologies across software development and cybersecurity:
 
-### 🎓 Education  
-- **Bachelor's degree in Software Engineering** (Virtual University of Pakistan) <br>  
-- **Genetic Robotic AI Engineering Course** (PIAIC Batch 68) <br>  
-- Current Courses: MERN Stack Development, IT Support, Python, UX Design <br>  
+- **Programming Languages**: JavaScript, Python, HTML/CSS
+- **Frameworks & Libraries**: React, Node.js, Express, MongoDB, Next.js
+- **Currently Learning**: TensorFlow, scikit-learn, Network Security Protocols
+- **Tools**: Git, VS Code, Postman, AI-assisted development
 
----
+## 🚀 Current Projects
 
-### 🌱 Currently Learning  
-- Python for AI and Robotics <br>  
-- Building AI models using TensorFlow and PyTorch <br>  
-- Software design patterns and state management <br>  
+I'm building my expertise through hands-on projects:
 
----
+- 🛡️ **Intelligent Intrusion Detection System** - Using machine learning to identify unusual network patterns
+- 🔐 **AI-Enhanced Password Analyzer** - A tool that evaluates password security using NLP techniques
+- 📊 **Security Log Visualization Dashboard** - Making security incidents visible and understandable
 
-### 💼 Projects  
-**Food Barter Web App** <br>  
-An app where users can exchange home-cooked meals with others nearby. <br>  
+## 📚 Education & Certifications
 
-**Landmarks of Pakistan, South Korea, and North Korea** <br>  
-An interactive database of famous landmarks. <br>  
+- BSc Software Engineering - Virtual University of Pakistan (CGPA: 3.17)
+- Certificate of Higher Education: Certified Cloud Applied Generative AI Engineer - PIAIC
+- Currently pursuing: Google Cybersecurity & IBM AI Engineering Professional Certificates
 
----
+## 👨‍🏫 Experience & Leadership
 
-### 📫 Contact  
-- Email: **[lybanoor20@gmail.com](mailto:lybanoor20@gmail.com)** <br>  
-- LinkedIn: **[Laiba Noor](https://www.linkedin.com/in/laibanoor20/)** <br>  
-- GitHub: **[LaibaTARIQ-20](https://github.com/LaibaTARIQ-20)** <br>  
+- Software Development Intern at Software Productivity Strategists (SPS)
+- Web Development Intern at Evolvian Softwares
+- Full Stack Developer Intern at Uptech Sol
+- Campus Ambassador for multiple tech conferences and events
+- Former Computer Science Teacher at Hope School
 
----
+## 🌱 Learning Path
 
-### 🏆 Achievements  
-- Enrolled in **PIAIC Batch 68** for AI and Robotics Engineering <br>  
-- Participated in the **Virtual University Idea Competition 2024** <br>  
-- Web Tech Bootcamp Graduate <br>  
+I believe learning never stops. Currently focused on:
 
----
+- Deepening my understanding of machine learning for security applications
+- Building practical projects that demonstrate AI-security integration
+- Reading research papers weekly on emerging cybersecurity threats and AI solutions
 
-### ⚡ Fun Fact  
-When I’m not coding, I enjoy exploring the latest tech trends, experimenting with AI models, and baking delicious treats! <br>  
+## 🤝 Let's Connect
+
+I'm always open to collaborate on projects involving AI and cybersecurity:
+
+- 📧 Email: [laibanoormalik20@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/laibanoor20/]
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out if you're interested in collaborating on a project or have any queries.
+> "Security is not just about building walls, but about creating intelligent systems that learn, adapt, and protect."
+
+*Last updated: July 23, 2025*
